@@ -2,8 +2,6 @@
 
 >react移动端ActionSheet组件
 
-源码地址：[ActionSheet源码地址](https://github.com/DearICE/RC-ActionSheet)
-
 ### 实例：
 
 ```js
